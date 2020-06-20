@@ -1,8 +1,12 @@
-### This is a random quote generator built with React js. It's part of the Freecodecamp frontend libraries curriculum.
+### This is a random quote generator built with React js.  It's part of the Freecodecamp frontend libraries curriculum.
 
 ## Project Set up
 
 In the project directory, you can run:
+
+### `npm install`
+
+Then run:
 
 ### `npm start`
 
