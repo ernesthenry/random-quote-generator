@@ -1,4 +1,4 @@
-### This is a random quote generator built with React js. This is a react App that generates random quotes.
+### This is a random quote generator built with React js. This is a react app that generates random quotes.
 
 ## Project Set up
 
