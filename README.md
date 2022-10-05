@@ -1,5 +1,9 @@
 ### This is a random quote generator built with React js. This is a react app that generates random quotes.
 
+## Live Demonstration 
+
+Live project link: <https://ernesthenry.github.io/random-quote-generator/> 
+
 ## Project Set up
 
 In the project directory, you can run:
